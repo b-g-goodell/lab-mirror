@@ -1,6 +1,8 @@
-# Monero Research Lab
+# An old, frightful fork
 
-Copyright (c) 2014-2018, The Monero Project
+Forked from the (copyrighted 2014-2020, The Monero Project) research-lab github. This is an old fork filled with dirty commits, bad behavior, terrible practices, etc. Don't do the things I did with this fork. 
+
+Keeping it for posterity. All licenses should match that of The Monero Project. Any conflicts with the licences chosen by the Monero Project are unintentional oversights that should be ignored in favor of the up-to-date licences found there.
 
 ## Research Resources
 
@@ -9,7 +11,6 @@ Forum: [forum.getmonero.org](https://forum.getmonero.org)
 IRC on Freenode:
 - [#monero-research-lab](http://webchat.freenode.net/?randomnick=1&channels=%23monero-research-lab&prompt=1&uio=d4)
 - [#monero-dev](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
-- [#kovri-dev](http://webchat.freenode.net/?randomnick=1&channels=%23kovri-dev&prompt=1&uio=d4)
 
 ## Vulnerability Response
 
@@ -24,7 +25,7 @@ This project is covered by the BSD 3-clause license as listed below. Contributor
 
 ## Source Code and Concept License
 
-Copyright (c) 2014-2017, The Monero Project
+Copyright (c) 2014-2020, The Monero Project
 
 All rights reserved.
 
